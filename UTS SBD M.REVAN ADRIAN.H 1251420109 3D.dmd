@@ -1,0 +1,25 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="NJNU" id="75ED6256-8388-E975-86C7-C8420869B510" version="3.5">
+<createdBy>Revan</createdBy>
+<createdTime>2026-10-16 03:37:18 UTC</createdTime>
+<ownerDesignName>NJNU</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>75ED6256-8388-E975-86C7-C8420869B510</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="2E7FC89D-36D1-75C9-3063-A3BF19FD0E43">
+<designStoragePath>C:\dreamhome_logical_model_ddl_script</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="5E0A7304-CF34-1D02-3EDC-3D36A65D45E8">
+<designStoragePath>C:\UTS SBD MUHAMMAD REVAN ADRIAN HADINATA 3D 1251420109</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="56296A3D-6152-7781-EAE7-AB0CF969AC45">
+<designStoragePath>C:\soal 3.21</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="40FC572D-4773-690C-7061-8CA7E807D7F1">
+<designStoragePath>C:\soal 3.21</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="E767428D-68B4-2CE9-1260-F368D78E572B">
+<designStoragePath>C:\soal 3.21</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
